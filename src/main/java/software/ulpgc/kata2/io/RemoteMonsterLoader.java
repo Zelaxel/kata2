@@ -1,4 +1,4 @@
-package software.ulpgc.kata2;
+package software.ulpgc.kata2.io;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -6,7 +6,6 @@ import software.ulpgc.kata2.model.Monster;
 
 import java.io.IOException;
 import java.io.InputStream;
-import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.ArrayList;

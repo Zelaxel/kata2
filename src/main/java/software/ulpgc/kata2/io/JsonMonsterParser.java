@@ -1,4 +1,4 @@
-package software.ulpgc.kata2;
+package software.ulpgc.kata2.io;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
